@@ -1,3 +1,5 @@
+[![Build](https://github.com/falk-werner/mosquitto-example/actions/workflows/build.yml/badge.svg)](https://github.com/falk-werner/mosquitto-example/actions/workflows/build.yml)
+
 # mosquitto-example
 
 This Repository contains examples of how to use MQTT using [mosquitto](https://mosquitto.org/).
